@@ -1,0 +1,12 @@
+@import "../../variables";
+
+.nav {
+  background: $blue;
+  header {
+    padding: 20px;
+  }
+}
+
+.MuiAppBar-colorPrimary {
+  background-color: $blue !important;
+}

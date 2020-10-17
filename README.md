@@ -1,4 +1,4 @@
-<h1>React Movie Database API</h1>
+<h1>Movie Database</h1>
 
 Search for movies! Built using React, Axios and MaterialUI.
 
